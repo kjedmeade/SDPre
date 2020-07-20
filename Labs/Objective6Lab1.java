@@ -1,4 +1,4 @@
-public class Objective6Lab1 {
+public class Objective6Lab1 {  
   public static void main(String[] args) {
     int month = 6;
 
